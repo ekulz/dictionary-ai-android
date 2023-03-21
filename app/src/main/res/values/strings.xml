@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Dictionary AI Android</string>
+    <string name="enter_text">Enter text to translate</string>
+    <string name="select_language">Target language</string>
+    <string name="translate_button_text">Translate</string>
+    <string name="input_text_hint">Sentence to translate</string>
 </resources>
